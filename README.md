@@ -1,2 +1,2 @@
 # godaa
-Data-structures ans algorithms in golang 
+Data-structures and algorithms in golang 
